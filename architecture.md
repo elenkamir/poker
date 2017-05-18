@@ -5,7 +5,7 @@
 На вход подается набор из пяти карт, программа должна выдавать ответ: какую старшую комбинацию можно составить из этих карт.
 
 Комбинации:
-![Комбинации](http://ultrapoker.net/wp-content/uploads/2013/10/pokernie-kombinacii.png "Комбинации")
+![Комбинации](http://www.casinoreviewbank.com/dictionary_images/Poker_Hand.jpg "Комбинации")
 
 ### Функции ###
 Каждая карта задается своей мастью и названием на английском языке. См: http://engblog.ru/about-playing-cards-in-english
@@ -20,5 +20,10 @@
 ### Сущности ###
 
 Объект Card
+
 Масть (suit)
+
 Достоинство (power)
+
+Функции: RoyalFlush, StraightFlush, FourOfAKind, FullHouse, Flush, Straight, ThreeOfAKind, TwoPairs, OnePair.
+
