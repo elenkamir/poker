@@ -23,7 +23,7 @@
 
 Масть (suit)
 
-Достоинство (power)
+Достоинство (kind)
 
 Функции: RoyalFlush, StraightFlush, FourOfAKind, FullHouse, Flush, Straight, ThreeOfAKind, TwoPairs, OnePair.
 
